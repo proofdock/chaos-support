@@ -1,5 +1,5 @@
 # Support for the Proofdock Chaos Engineering Platform and Chaos Tools
 
-This project is intented to give you a place to communicate with us when our Chaos Engineering Platform or the Chaos tools have bugs, failures or you have feature requests to us. Reach out to us via the Issues button.
+This project is intented to give you a place. Communicate with us in case of bugs, failures or you have feature requests. Reach out to us and create an issue.
 
-Alternatively you can contact us via support@proofdock.io. We're here to help.
+Alternatively you can contact us via support@proofdock.io. We are happy to help.
